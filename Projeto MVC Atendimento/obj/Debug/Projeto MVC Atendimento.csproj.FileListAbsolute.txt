@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\bin\Debug\Projeto MVC Atendimento.exe.config
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\bin\Debug\Projeto MVC Atendimento.exe
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\bin\Debug\Projeto MVC Atendimento.pdb
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto_MVC_Atendimento.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.exe
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.pdb

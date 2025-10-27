@@ -25,7 +25,7 @@ namespace Projeto_MVC_Atendimento
             HoraAtend = null;
         }
 
-        //propriedades privadas
+        //Getters e Setters
         public int Id
         {
             get { return _id; }
