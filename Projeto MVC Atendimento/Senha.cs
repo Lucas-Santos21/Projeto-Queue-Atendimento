@@ -66,7 +66,10 @@ namespace Projeto_MVC_Atendimento
 
         public string dadosCompletos()
         {
-            string saida = $"{Id}-{DataGerac:dd/MM/yyyy}-{HoraGerac:HH:mm}-{DataAtend:dd/MM/yyyy}-{HoraAtend:HH:mm}";
+            string dataAt = DataAtend?.ToString("dd/MM/yyyy") ?? "-";
+            string horaAt = HoraAtend?.ToString("HH:mm") ?? "-";
+
+            string saida = $"{Id}-{DataGerac:dd/MM/yyyy}-{HoraGerac:HH:mm}-{dataAt}-{horaAt}";
 
             return saida;
         }
