@@ -7,3 +7,4 @@ C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2
 C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.exe
 C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto MVC Atendimento.pdb
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto MVC Atendimento\Projeto MVC Atendimento\obj\Debug\Projeto_MVC_Atendimento.Form1.resources
